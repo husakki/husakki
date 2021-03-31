@@ -1,4 +1,4 @@
-### Hi there, I'm Hüseyin - aka nobbiee11 👋
+### Hi there, I'm Hüseyin - aka husakki 👋
 
 ## I'm a Student in Computer Science (Informatik)!!
 
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: To Design Tshirt's
 
 ### Connect with me:
-[<img align="left" alt="nobbiee11 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="husakki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -20,4 +20,4 @@
 [![nobbiees's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobbiee11&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/husakki
-[github]: https://github.com/nobbiee11
+[github]: https://github.com/husakki
