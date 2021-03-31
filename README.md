@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Code more in Java and Dart(Flutter)
-- ⚡ Fun fact:I love to do designs for Tshirt's
+- ⚡ Fun fact: I love to do designs for tshirt's
 
 ### Connect with me:
 [<img align="left" alt="husakki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
