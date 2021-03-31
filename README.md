@@ -1,9 +1,8 @@
-### Hi there, I'm Hüseyin - nobbiee11 👋
+### Hi there, I'm Hüseyin - aka nobbiee11 👋
 
 ## I'm a Student in Computer Science (Informatik)!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Code more in Java and Dart(Flutter)
 - ⚡ Fun fact: To Design Tshirt's
 
@@ -13,11 +12,12 @@
 <br />
 
 ### Languages and Tools:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="22">][github]
 
-<br />
 
 ---
 
 [![nobbiees's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobbiee11&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/husakki
+[github]: https://github.com/nobbiee11
