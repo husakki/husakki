@@ -19,7 +19,7 @@
 
 [<img align="left" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="Dart" width="33">][github]
 [<img align="left" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="29">][github]
-[<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Database.svg" alt="SQL" width="43">][github]
+[<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Database.svg" alt="SQL" width="38">][github]
 [<img align="left" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java" width="27" height="47">][github]
 
 <br />
