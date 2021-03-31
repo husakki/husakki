@@ -26,8 +26,7 @@
 <br />
 
 ---
-
-[![husakki's GitHub stats](https://github-readme-stats.vercel.app/api?username=husakki&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="husakki's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=husakki&hide=contribs,issues&show_icons=true&hide_border=true" />
 
 [instagram]: https://instagram.com/husakki
 [github]: https://github.com/husakki
