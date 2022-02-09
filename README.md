@@ -3,7 +3,7 @@
 ## I'm a Student in Computer Science (Informatik)!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Code more in Java and Dart(Flutter)
+- 🥅 2022 Goals: Get some projects done
 - ⚡ Fun fact: I love to do designs for tshirt's
 
 ### Connect with me:
